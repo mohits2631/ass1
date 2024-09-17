@@ -1,0 +1,9 @@
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
